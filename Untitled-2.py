@@ -1,0 +1,1 @@
+print("I am a Python script running in a Docker container.")
